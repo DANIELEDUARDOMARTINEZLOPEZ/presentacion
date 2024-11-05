@@ -1,5 +1,5 @@
 ---
-title: "League Theme"
+title: "CAPITULO 7"
 layout: post
 permalink: /league/
 theme: league
