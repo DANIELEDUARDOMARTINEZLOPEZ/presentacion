@@ -1,4 +1,4 @@
-    ---
+---
 title: "CAPITULO 7"
 layout: post
 permalink: /league/
@@ -73,7 +73,7 @@ permite captar y dirigir más señal, mejorando la calidad y eficiencia de la tr
 
  - title: "Microondas"
    slide-data: "Las microondas son ondas electromagnéticas con frecuencias entre 1 y 300 GHz y son unidireccionales, lo que significa que las antenas deben estar alineadas para comunicarse."
-
+   
     - title: "Infrarojo"
    slide-data: "Las ondas infrarrojas, con frecuencias entre 300 GHz y 400 THz, son útiles para comunicación de corto alcance ya que no atraviesan paredes, evitando interferencias entre sistemas en distintas habitaciones."
 
